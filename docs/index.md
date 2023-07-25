@@ -1,4 +1,4 @@
-<img src="images/FirmWorks-Geo-5x5-Blue.png" alt="drawing" height="200"/>
+<img src="images/FirmWorks-Geo-5x5-Blue.png" alt="FirmWorks Geo" height="200"/>
 
 # FirmWorks Geo Salesforce Mapping Application
 
