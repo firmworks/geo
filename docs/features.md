@@ -20,25 +20,25 @@ Interact with any Geocode API you desire using Custom Providers Setups and with 
 
 Works with standard data integrations in seconds
 
-![Quick Setup and Use](images/features-fmf.gif)
+![Quick Setup and Use](images/features-fmf.webm)
 
 ## Custom Geocoding Field Support
 
 Can be setup for custom object using Apex to import geocode data from provider
 
-![Custom Geocode Field Support](images/features-cgfs.gif)
+![Custom Geocode Field Support](images/features-cgfs.webm)
 
 ## Searching and Filters Made Easy
 
 Easily set up multiple configurations for address fields and filters for easy targeting of addresses
 
-![Custom Filters](images/features-sfme.gif)
+![Custom Filters](images/features-sfme.webm)
 
 ## Export Helpful Map Data
 
 Export list of data for customer visits or to plan a sales route
 
-![Export Map Data](images/features-ehmd.gif)
+![Export Map Data](images/features-ehmd.webm)
 
 ## Fully Customizable
 
