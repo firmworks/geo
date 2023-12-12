@@ -4,6 +4,7 @@
 
 ## 0.7 December 2023
 
+- Updated all metadata to v59.0
 - Modified firmworks__Nearby_Setting__mdt from Package Protected to public
 - Modified Permission Sets to include Custom Metadata
 - Introduced Interop - Component Group Alias
