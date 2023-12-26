@@ -2,13 +2,16 @@
 
 # Release Notes
 
+## 0.10 January 2024
+- Added ability to limit results returned - helpful for areas where thousands of results causing performance degradation.
+
 ## 0.8 December 2023
 
 - Updated all metadata to v59.0
 - Modified firmworks__Nearby_Setting__mdt from Package Protected to public
 - Modified Permission Sets to include Custom Metadata
 - Introduced Interop - Component Group Alias
-  - Because the search, list and map components work via client side events - adding multiple components (via tabs or other layout) resulted in inconsistant behavior.
+  - Because the search, list and map components work via client side events - adding multiple components (via tabs or other layout) resulted in inconsistent behavior.
   - The design time configuration can be set with a unique arbitrary custom value so that the search/list/map and other components can subscribe to the same group that have the same setting.
 - List component now can show a driving directions button which can be turned on/off in design - this feature opens a google.com directions screen for the first 23 addresses in the list component. The url can be subsequently shared to a phone for drive navigation.
 - List component can now hide the download button
