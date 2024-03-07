@@ -6,10 +6,10 @@
   - Due to unforseen issues with the original FirmWorks Geo package (namespace firmworks) - We have rereleased FirmWorks Geo as "FirmWorks-Geo" with it's own firmworksGeo namespace. The new package and the old package can be installed concurrently (although confusing as many things are named the same). The removal of the FirmWorks Geo package with the namespace "firmworks" is neccessary to use any other FirmWorks products.
 
   - Support searching from geo coordinates - easily get coordinates from a provider like Google Maps and enter it into the address field - this bypasses API call outs to geocode the address. The accepted values - are valid decimal latitudes and decimal longitudes separated by a comma.
-  - 32.80979973546311, -116.906332705415
-  - 38.483378, -109.681333
-  - 45.019120, -76.898557
-  - 0.5, 0.5
+    - 32.80979973546311, -116.906332705415
+    - 38.483378, -109.681333
+    - 45.019120, -76.898557
+    - 0.5, 0.5
 
 ![Search with Latitude/Longitude](images/releasenotes/releasenotes-searchlatlng.gif)
 
