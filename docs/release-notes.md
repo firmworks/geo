@@ -2,6 +2,9 @@
 
 # Release Notes
 
+## 1.1,1.2
+  - Flow support for components
+    
 ## 1.0.0 March 2024
   - Due to unforseen issues with the original FirmWorks Geo package (namespace firmworks) - We have rereleased FirmWorks Geo as "FirmWorks-Geo" with it's own firmworksGeo namespace. The new package and the old package can be installed concurrently (although confusing as many things are named the same). The removal of the FirmWorks Geo package with the namespace "firmworks" is neccessary to use any other FirmWorks products.
 
