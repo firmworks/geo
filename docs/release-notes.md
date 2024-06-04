@@ -2,9 +2,32 @@
 
 # Release Notes
 
-## 1.1,1.2
-  - Flow support for components
-    
+## 1.6
+
+- Introduce Invocable Method to Geocode addresses via flows "Geocode an address"
+- Introduce global APEX method to Geocode addresses via APEX FirmworksGeo.GeoToolkit.geocode(string address);
+
+## 1.5
+
+- Error handling updates to increase code coverage
+
+## 1.4
+
+- API Version update from 59 to 60
+
+## 1.3
+
+- Global modifiers added to support custom providers (Contact support about leveraging custom geo providers - for instance adding a cacheing layer on top of your google results)
+- Added ability to set origin location from dropping a pin on a map. This allows for the ability to set origin locations from device (browser/phone), a record's latitude/longitude fields, lookup via US Geo/ Google Providers, and now selecting from a visual map.
+
+## 1.2
+
+- Flow support for components
+
+## 1.1
+
+- Flow support for components
+
 ## 1.0.0 March 2024
   - Due to unforseen issues with the original FirmWorks Geo package (namespace firmworks) - We have rereleased FirmWorks Geo as "FirmWorks-Geo" with it's own firmworksGeo namespace. The new package and the old package can be installed concurrently (although confusing as many things are named the same). The removal of the FirmWorks Geo package with the namespace "firmworks" is neccessary to use any other FirmWorks products.
 
