@@ -39,6 +39,17 @@
 
 ![Search with Latitude/Longitude](images/releasenotes/releasenotes-searchlatlng.gif)
 
+
+
+
+
+***
+
+***
+
+***
+## Firmworks Geo with Firmworks Namespace
+
 ## 0.10 January 2024
 - Added ability to limit results returned - helpful for areas where thousands of results causing performance degradation.
 
