@@ -2,6 +2,10 @@
 
 # Release Notes
 
+## 1.7
+
+- Added ability to clear radio selection from the list component
+
 ## 1.6
 
 - Introduce Invocable Method to Geocode addresses via flows "Geocode an address"
