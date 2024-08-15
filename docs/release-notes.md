@@ -2,6 +2,15 @@
 
 # Release Notes
 
+## 1.12
+
+- Added CSP declaration for Google map image tiles to be loaded
+- Clear out address entry on manual selection component
+
+## 1.8 - 1.11
+
+- Bug fixes and user interface enhancements
+
 ## 1.7
 
 - Added ability to clear radio selection from the list component
