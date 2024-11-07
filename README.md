@@ -6,5 +6,5 @@ Check out our documentation here [firmworks.github.io/geo/](https://firmworks.gi
 
 Until we are available on the App Exchange install using this link
 
-v1.2 firmworksGeo namespace
-[https://login.salesforce.com/packaging/installPackage.apexp?p0=04tPm0000000MerIAE]
+v1.14 [
+[https://login.salesforce.com/packaging/installPackage.apexp?p0=04tPm0000000MerIAE]](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tPm0000001HQDIA2)
