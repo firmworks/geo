@@ -1,7 +1,10 @@
 [Back To Home](index.md)
 
 # Release Notes
+## 1.13 - 1.14
 
+- Added configuration to the geo list component to allow the disablement of the navigate to record column
+  
 ## 1.12
 
 - Added CSP declaration for Google map image tiles to be loaded
